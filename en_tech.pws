@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 personal_ws-1.1 en 21
 alist
 autosave
@@ -20,3 +21,11 @@ src
 tsx
 utop
 whitespace
+=======
+personal_ws-1.1 en 5
+deno
+flyspell
+ocamlinit
+setq
+websocket
+>>>>>>> ee71bc2 (Update)
