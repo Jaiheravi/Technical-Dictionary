@@ -1,24 +1,30 @@
-personal_ws-1.1 en 26
+personal_ws-1.1 en 32
 alist
 autosave
 chez
 cmi
 cmx
 deno
+editorconfig
+el
 endline
 eval
 flyspell
 https
+init
 json
 lsp
 makefile
 npm
 opam
 pbcopy
+prolog
 setq
+smalltalk
 src
 tsx
 utop
+vertico
 whitespace
 deno
 flyspell
