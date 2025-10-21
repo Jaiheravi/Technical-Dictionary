@@ -1,7 +1,9 @@
-personal_ws-1.1 en 54
+personal_ws-1.1 en 60
 alist
 autosave
 axioma
+bg
+calc
 canonicalurl
 charset
 chez
@@ -12,12 +14,14 @@ deno
 dev
 dired
 doctype
+dropdown
 editorconfig
 el
 eleventy
 endline
 eval
 favicon
+fieldset
 flyspell
 href
 https
@@ -26,6 +30,8 @@ json
 lf
 lsp
 makefile
+nav
+neuralink
 npm
 og
 opam
