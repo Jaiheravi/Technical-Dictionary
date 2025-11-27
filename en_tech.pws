@@ -1,6 +1,7 @@
-personal_ws-1.1 en 60
+personal_ws-1.1 en 70
 alist
 autosave
+autosaves
 axioma
 bg
 calc
@@ -15,10 +16,12 @@ dev
 dired
 doctype
 dropdown
+dom
 editorconfig
 el
 eleventy
 endline
+eslint
 eval
 favicon
 fieldset
@@ -28,9 +31,11 @@ https
 init
 json
 lf
+localhost
 lsp
 makefile
 nav
+modeline
 neuralink
 npm
 og
@@ -38,9 +43,12 @@ opam
 opengraph
 passthrough
 pbcopy
+pbpaste
 png
 preload
 prolog
+pws
+repos
 setq
 smalltalk
 src
@@ -48,6 +56,7 @@ stylesheet
 svg
 treesit
 tsx
+turbopack
 utf
 utop
 vertico
@@ -59,3 +68,4 @@ flyspell
 ocamlinit
 setq
 websocket
+xcode
