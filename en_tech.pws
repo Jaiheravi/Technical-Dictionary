@@ -1,4 +1,4 @@
-personal_ws-1.1 en 71
+personal_ws-1.1 en 79
 alist
 autosave
 autosaves
@@ -11,9 +11,11 @@ chez
 cmi
 cmx
 crossorigin
+defaultbranch
 deno
 dev
 dired
+dirs
 doctype
 dropdown
 dom
@@ -27,6 +29,9 @@ favicon
 fieldset
 flexoki
 flyspell
+gpg
+gpgsign
+homebrew
 href
 https
 init
@@ -49,8 +54,11 @@ png
 preload
 prolog
 pws
+rebase
 repos
+runghc
 setq
+signingkey
 smalltalk
 src
 stylesheet
