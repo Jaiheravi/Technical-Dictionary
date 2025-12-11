@@ -1,5 +1,6 @@
-personal_ws-1.1 en 79
+personal_ws-1.1 en 94
 alist
+autoload
 autosave
 autosaves
 axioma
@@ -10,6 +11,7 @@ charset
 chez
 cmi
 cmx
+cpp
 crossorigin
 defaultbranch
 deno
@@ -22,6 +24,7 @@ dom
 editorconfig
 el
 eleventy
+emacsmirror
 endline
 eslint
 eval
@@ -29,13 +32,18 @@ favicon
 fieldset
 flexoki
 flyspell
+ghci
 gpg
 gpgsign
+hackiness
 homebrew
 href
 https
+imenu
 init
+jaiheravi
 json
+keymap
 lf
 localhost
 lsp
@@ -43,24 +51,31 @@ makefile
 nav
 modeline
 neuralink
+newtype
 npm
 og
 opam
 opengraph
+parens
 passthrough
 pbcopy
 pbpaste
 png
 preload
+prev
 prolog
 pws
+quasiquote
 rebase
 repos
 runghc
 setq
+sexp
 signingkey
 smalltalk
 src
+struct
+structs
 stylesheet
 svg
 treesit
