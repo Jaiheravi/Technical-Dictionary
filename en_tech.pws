@@ -1,4 +1,4 @@
-personal_ws-1.1 en 94
+personal_ws-1.1 en 107
 alist
 autoload
 autosave
@@ -11,9 +11,11 @@ charset
 chez
 cmi
 cmx
+config
 cpp
 crossorigin
 defaultbranch
+defun
 deno
 dev
 dired
@@ -30,9 +32,12 @@ eslint
 eval
 favicon
 fieldset
+filetags
 flexoki
 flyspell
+fu
 ghci
+ghostty
 gpg
 gpgsign
 hackiness
@@ -42,12 +47,14 @@ https
 imenu
 init
 jaiheravi
+jetbrains
 json
 keymap
 lf
 localhost
 lsp
 makefile
+melpa
 nav
 modeline
 neuralink
@@ -60,6 +67,8 @@ parens
 passthrough
 pbcopy
 pbpaste
+pdfs
+petri
 png
 preload
 prev
@@ -77,10 +86,13 @@ src
 struct
 structs
 stylesheet
+stylesheets
 svg
+terminfo
 treesit
 tsx
 turbopack
+usr
 utf
 utop
 vertico
@@ -93,3 +105,4 @@ ocamlinit
 setq
 websocket
 xcode
+zsh
